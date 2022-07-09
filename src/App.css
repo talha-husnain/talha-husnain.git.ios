@@ -1,0 +1,201 @@
+/* /* /* /* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+/* .App-logo{
+  width: 70px;
+  margin : 0px -10px;
+  }
+
+.App-header{
+  background-color: #282c34;
+  background-size: 20000000 px 2px;
+  color : white;
+  
+
+
+} */ 
+/* .head{
+  display:flex;
+  
+}
+.he{
+  margin: 10 px 10px;
+}
+.he4{
+  margin: 10 px 10000px;
+} */ 
+/* <Card style={{ width: '18rem' }}>
+  <Card.Img variant="top" src="holder.js/100px180" />
+  <Card.Body>
+    <Card.Title>Card Title</Card.Title>
+    <Card.Text>
+      Some quick example text to build on the card title and make up the bulk of
+      the card's content.
+    </Card.Text>
+    <button variant="primary">Go somewhere</button>
+  </Card.Body>
+</Card> */
+.nav{
+    display: flex;
+    background-color:black; 
+    color:palegoldenrod 
+} 
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.nav-items{
+  
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+
+}
+.nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color:rgb(28, 41, 47)
+}
+.mai{
+  background-color:rgb(16, 60, 219);
+}
+.btn{
+  size:20 rem;
+  position:absolute;
+  margin : 20% 50%;
+  display:flex box;
+  color:rgb(185, 30, 30);
+  /* background-color: black; */
+}
+.item{
+  position:relative;
+  margin: 0% 0%;
+  display:flex;
+  color: lawngreen;
+  background-color:black;
+  justify-content:left;
+  gap:100px;
+}
+.se{
+  size:12em;
+  color:purple;
+  background-color:lawngreen;
+  margin: 0% 85%;
+  position:absolute;
+  margin-top: 25px;
+}
+.to{
+  width: 15rem;
+  /* margin-left: 20px;
+  margin-right: 20px; */
+  background-color: darkblue;
+  /* position:absolute; */
+  color: white;
+  margin : 18% 35%;
+  display: inline-block;
+  justify-content:end;
+  position:relative;
+  
+}
+.in{
+  display: inline;
+}
+.t{
+  width: 6rem;
+  /* margin-left: 20px;
+  margin-right: 20px; */
+  background-color: darkblue;
+  position:absolute;
+  color: white;
+  margin : -24% 35%;
+  justify-content: right;
+  /* display: inline-block;
+  justify-content:end; */
+  /* position:absolute; */
+  }
+  .eit{
+    width: 15rem;
+    /* margin-left: 20px;
+    margin-right: 20px; */
+    background-color: darkblue;
+    position:absolute;
+    color: white;
+    margin : -30% 35%;
+    justify-content: right;
+    /* display: inline-block;
+    justify-content:end; */
+    /* position:absolute; */
+    }
+.ca{
+  /* position: relative;
+  justify-content:ends;
+  gap: 40px; */
+background-color:black;
+display: flex;
+justify-content:ends;
+gap: 220px;
+}
+.c{
+  /* position: relative;
+  justify-content:ends;
+  gap: 40px; */
+background-color:black;
+display: flex;
+justify-content:ends;
+gap: 220px;
+}
+.ta{
+  width: 25rem;
+  /* margin-left: 20px;
+  margin-right: 20px; */
+  background-color: darkblue;
+  position:absolute;
+  color: white;
+  margin : -17.5% 35%;
+  justify-content: right;
+  
+}
+.de{
+  width:10rem;
+  position:absolute;
+  margin : -10% 35%;
+  display:flex box;
+  color:greenyellow;
+  background-color: purple; 
+}
